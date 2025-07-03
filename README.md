@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Formula07
-- 👀 I’m interested in android development
+- 👋 Hi, I’m Kartikey Krishan
 - 🌱 I’m currently learning spring and spring boot
 - 💞️ I’m looking to collaborate on projects for my college
 - 📫 To reach me email- kartikeykrishan007@gmail.com
