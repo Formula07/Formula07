@@ -23,6 +23,12 @@ I'm a backend developer focused on building modular, production-ready systems us
 - **📚 Library Management System**  
   A secure REST API backend for managing books, users, and issue/return operations.
 
+- **🛡️ Women Safety Android App**  
+  An Android app built using Java in Android Studio that allows users to quickly share location and alerts for safety in emergency situations.
+
+- **👛 Simple Personal Wallet Backend**  
+  A basic Spring Boot backend for managing personal expenses and wallet balance — lightweight and easy to extend.
+
 ---
 
 - 📫 To reach me email- kartikeykrishan007@gmail.com
