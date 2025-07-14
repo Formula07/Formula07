@@ -1,6 +1,30 @@
-- 👋 Hi, I’m Kartikey Krishan
-- 🌱 I’m currently learning spring and spring boot
-- 💞️ I’m looking to collaborate on projects for my college
+# 👋 Hi, I'm Kartikey Krishan
+
+I'm a backend developer focused on building modular, production-ready systems using **Java** and **Spring Boot**.
+
+---
+
+### 🛠️ Tech Stack
+
+- ☕ **Java**
+- ⚙️ **Spring Boot**, Spring MVC, Spring Security
+- 📊 **Apache Kafka** for messaging
+- 🗃️ **JPA**, Hibernate, MySQL
+- 🔍 RESTful API design
+- ✅ Unit & integration testing with **JUnit** and **Mockito**
+
+---
+
+### 📌 Projects I've Built
+
+- **💸 Digital Wallet Backend System**  
+  A microservices-based backend for onboarding, wallet, transactions, and notifications using Spring Boot and Kafka.
+
+- **📚 Library Management System**  
+  A secure REST API backend for managing books, users, and issue/return operations.
+
+---
+
 - 📫 To reach me email- kartikeykrishan007@gmail.com
 
 <!---
