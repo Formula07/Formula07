@@ -32,6 +32,7 @@ I'm a backend developer focused on building modular, production-ready systems us
 ---
 
 - 📫 To reach me email- kartikeykrishan007@gmail.com
+- My Resume - https://drive.google.com/file/d/10QWymCDU58G4_7vQOlCndoebQeHZVSGo/view?usp=sharing
 
 <!---
 Formula07/Formula07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
